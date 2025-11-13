@@ -1,4 +1,4 @@
-# 🌟 Ethernal Devs 🌟
+# 🌟 Ethernal Studio 🌟
 
 ¡Bienvenidos a **Ethernal Devs**! Somos un equipo de desarrollo dedicado a la creación de experiencias inmersivas, emocionantes y de alta calidad dentro del universo de **Minecraft**.
 
@@ -23,7 +23,7 @@ Creamos entornos persistentes y sistemas de *plugins* que dan soporte a series d
 Somos una comunidad abierta y siempre estamos buscando talento apasionado.
 
 ### 👥 Únete al Equipo
-Si estás interesado en unirte a **Ethernal Devs** como desarrollador, constructor o gestor de proyectos, contáctanos a través de Discord.
+Si estás interesado en unirte a **Ethernal Studio** como desarrollador, constructor o gestor de proyectos, contáctanos a través de Discord.
 
 
 ---
@@ -34,4 +34,4 @@ Si estás interesado en unirte a **Ethernal Devs** como desarrollador, construct
 * **Twitter/X:** [[@EthernalDevs](https://x.com/EthernalDevs)] (Para noticias y anuncios).
 ---
 
-**¡Gracias por ser parte del universo Ethernal Devs!**
+**¡Gracias por ser parte de Ethernal Studio!**
