@@ -31,7 +31,7 @@ Si estás interesado en unirte a **Ethernal Devs** como desarrollador, construct
 ## 🔗 Contacto y Comunidad
 
 * **Discord:** [https://discord.gg/RbGN7dzBPV] (El mejor lugar para contactarnos).
-* **Twitter/X:** [@EthernalDevs] (Para noticias y anuncios).
+* **Twitter/X:** [[@EthernalDevs](https://x.com/EthernalDevs)] (Para noticias y anuncios).
 ---
 
 **¡Gracias por ser parte del universo Ethernal Devs!**
